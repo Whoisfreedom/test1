@@ -1,4 +1,11 @@
 wadaf af a asad fhcbh
 qweqweqwe
+<<<<<<< HEAD
 fgsdgdf
 hfghhg
+=======
+dfasfasfas
+sadf
+asf
+dsaf
+>>>>>>> 8cb92cab619aa739018e3ca5cd061c6068c1c214
